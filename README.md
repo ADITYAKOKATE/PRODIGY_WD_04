@@ -1,4 +1,5 @@
 Aditya Kokate - Web Developer Portfolio
+
 Welcome to my personal portfolio, where I showcase my journey, skills, and projects as a web developer. This website is a reflection of my passion for creating interactive, user-friendly web solutions. Designed with a clean, modern layout, the portfolio highlights my expertise in front-end and back-end development, responsive design, and innovative web technologies.
 
 Explore my projects, ranging from simple static pages to complex, interactive web applications. Each project is thoughtfully documented, demonstrating my proficiency in languages like HTML, CSS, JavaScript, and frameworks like React, along with my attention to design and functionality.
