@@ -8,7 +8,7 @@ The portfolio also features a detailed “About Me” section, where you can lea
 
 This portfolio serves as a dynamic platform to connect with potential clients, collaborators, and employers, while providing a glimpse into my creative process and technical abilities as a web developer.
 
-## Screenshots
+## Screenshots 
 <img src="Screenshot 2025-03-05 130813.png" width="500"><img src="Screenshot 2025-03-05 130827.png" width="500">
 <img src="Screenshot 2025-03-05 130850.png" width="500"><img src="Screenshot 2025-03-05 130905.png" width="500">
 
