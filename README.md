@@ -1,4 +1,4 @@
-Aditya Kokate - Web Developer Portfolio
+**Aditya Kokate - Web Developer Portfolio**
 
 Welcome to my personal portfolio, where I showcase my journey, skills, and projects as a web developer. This website is a reflection of my passion for creating interactive, user-friendly web solutions. Designed with a clean, modern layout, the portfolio highlights my expertise in front-end and back-end development, responsive design, and innovative web technologies.
 
@@ -9,7 +9,8 @@ The portfolio also features a detailed “About Me” section, where you can lea
 This portfolio serves as a dynamic platform to connect with potential clients, collaborators, and employers, while providing a glimpse into my creative process and technical abilities as a web developer.
 
 ## Screenshots
-<img src="Screenshot 2025-03-05 130411.png" width="500"><img src="Screenshot 2025-03-05 130434.png" width="500">
+<img src="Screenshot 2025-03-05 130813.png" width="500"><img src="Screenshot 2025-03-05 130827.png" width="500">
+<img src="Screenshot 2025-03-05 130850.png" width="500"><img src="Screenshot 2025-03-05 130905.png" width="500">
 
 
 
